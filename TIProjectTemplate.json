@@ -1,0 +1,782 @@
+[
+    {     
+        "dataName": "Project_TheirSignatures",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirMethods",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirOperations",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirMovements",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirOrigin",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HydraBiology",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Pherocytes",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AlienContainment",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HydraLanguage",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirTechnology",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Exotics",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ANewHome",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HydraDiplomacy",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheAlienNation",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HydraInterrogation",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirPurpose",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirDemands",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirWeakness",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PherocyteResistance",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Wormholes",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheChokePoint",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HydraBiowarfare",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PherocyteMastery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AppeaseVictory",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CooperateVictory",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_DestroyVictory",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_EscapeVictory",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ExploitVictory",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ResistVictory",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SubmitVictory",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CoexistencePact",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_APermanentPeace",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_KilltheHive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheGreatJourney",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_EnslavetheMasters",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheFinalAssault",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheOneTruePath",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AlienFlora",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirComputers",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TheirWarships",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ReusableRockets",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CompositeArmor",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_NanotubeArmor",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AdamantaneArmor",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_GrapheneBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_QuantumBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SuperconductingCoilBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MolybdenumPipeRadiator",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_NanotubeFilamentRadiator",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_IonicDustRadiator",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TinDropletRadiator",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ISRUModule",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AdvancedProspectingSurveys",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MuonSpiker",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_NeutroniumSpiker",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MobileSpaceScienceLab",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_RepairBay",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MarineAssaultUnit",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AdvancedMarineAssaultUnit",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_EliteMarineAssaultUnit",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LaserEngine",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AdvancedLaserEngine",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LiquidHydrogenContainment",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SlushHydrogenTankage",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HydronTrap",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Magazine",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ComponentArmor",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SolarPlatformKit",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_FusionPlatformKit",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_FusionOutpostKit",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_EnergyLab",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_InformationScienceLab",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LifeScienceLab",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SocialScienceLab",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SpaceScienceLab",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_DeepSpaceTelescope",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_EnergyResearchCenter",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_InformationScienceResearchCenter",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LifeScienceResearchCenter",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MarineCompanyBarracks",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MaterialsResearchCenter",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MilitaryScienceResearchCenter",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Nanofactory",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SocialScienceResearchCenter",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SpaceScienceResearchCenter",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_XenoscienceResearchCenter",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AgricultureComplex",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_EnergyInstitute",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Foundry",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_InformationScienceInstitute",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_InterstellarLaunchingLaser",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LifeScienceInstitute",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MarineBattalionBarracks",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MaterialsInstitute",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MilitaryScienceInstitute",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_NanofacturingComplex",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SocialScienceInstitute",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SpaceScienceInstitute",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Spaceworks",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_XenoscienceInstitute",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_DaedelusTorch",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TritonVistaInertialDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TritonHopeInertialDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ZetaBoronFusionDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HelionReflexDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_TritonReflexDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_BurnerDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AdvancedVortexDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_VortexDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PegasusDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_FissionSpinnerDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AdvancedPulsarDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PulsarDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AdvancedCermetNerva",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PonderomotiveVASIMR",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_VASIMR",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_GridDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_IonDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HeliconDrive",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Solid-FuelSpaceRockets",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Liquid-FuelRockets",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CryogenicLiquid-FuelRockets",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ImprovedInterplanetaryRockets",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AdvancedInterplanetaryRockets",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SuperheavyRockets",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SolidCoreFissionReactorII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SolidCoreFissionReactorIII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MoltenCoreFissionReactorI",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MoltenCoreFissionReactorII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MoltenCoreFissionReactorIII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_VaporCoreFissionReactorI",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_VaporCoreFissionReactorII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_GasCoreFissionReactorI",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_GasCoreFissionReactorII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ZPinchFusionReactorI",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ZPinchFusionReactorII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MirrorCellFusionReactorI",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MirrorCellFusionReactorII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_InertialConfinementFusionReactorI",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_InertialConfinementFusionReactorII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_InertialConfinementFusionReactorIII",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CopperheadMissileBay",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LanceheadMissileBay",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ViperMissileBay",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LithiumHeatSink",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PointDefenseParticleBeam",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LightRailgunBatteryMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_RailgunBatteryMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HeavyRailgunBatteryMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_RailCannonMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SpinalRailgunMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LightCoilgunBatteryMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CoilgunBatteryMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HeavyCoilgunBatteryMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CoilCannonMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SpinalCoilerMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LightRailCannonMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_LightCoilCannonMk1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PointDefenseLaserTurret",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_60cmIRLaserBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_240cmIRLaserCannon",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PointDefenseArcLaserTurret",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_PointDefensePhaserTurret",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_60cmGreenArcLaserBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_120cmGreenArcLaserBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_240cmGreenArcLaserCannon",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_60cmGreenPhaserBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_120cmGreenPhaserBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_240cmGreenPhaserCannon",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_60cmUVPhaserBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_120cmUVPhaserBattery",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_240cmUVPhaserCannon",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_GlobalListeningNetwork",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SpaceTugs",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SolarSteamers",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_NuclearFreighters",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_HighThrustProbes",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ResourceMarketAdministration",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_IntegratedResourceMarket",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SpaceTrafficControl",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_MaximumEffort",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_RapidShipbuilding",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CorridorDiplomacy",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_CommonCause",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ExecutiveProtection",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_SecurityMeasures",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ImprovedMaintenanceProcedures",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_DevolvedSpaceCommand",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ExternalizedCosts",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ECM1",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_ECM2",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_AlienECM",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_StrategicDeception",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_OperationalMisdirection",
+        "AI_criticalTech": true
+    },
+    {     
+        "dataName": "Project_Maskirovka",
+        "AI_criticalTech": true
+    }
+]

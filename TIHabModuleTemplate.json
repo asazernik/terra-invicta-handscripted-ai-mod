@@ -1,0 +1,14 @@
+[
+ {
+   "dataName": "HydroponicsBay",
+   "specialRulesValue": 100
+ },
+ {
+   "dataName": "Farm",
+   "specialRulesValue": 700
+ },
+ {
+   "dataName": "AgricultureComplex",
+   "specialRulesValue": 7000
+ }
+]
