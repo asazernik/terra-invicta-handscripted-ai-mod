@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2943135706</PublishedFileId>
+  <Name>Killeraoc2's Hand-Scripted AI</Name>
+  <Description>While the devs are trying to build something that will work with future changes, here's some hand-tuning to the current meta to make AI competent right now.</Description>
+  <IconFileName>Killeraoc2's Hand-Scripted AI.png</IconFileName>
+  <Tags />
+</WorkshopItemInfo>
